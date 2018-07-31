@@ -1,4 +1,4 @@
-#CD Universe
+# CD Universe
 
 ## Software Development Group Project 01 Course Work 01
 
@@ -8,7 +8,11 @@
 
 This is a console based java application. This was my first java application. 
 
-###Screen shots of the application
+```
+You can find all the related documents from the Documents folder in the repository
+```
+
+### Screen shots of the application
 
 * Main screen of the console application. Login details is required. You have go through the main menu by clicking the numbers as show as in the picture
 
